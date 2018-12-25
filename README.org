@@ -9,3 +9,20 @@ double checking what I do.
 
 I am preparing schematics to prepare a breadboard test of the hand wiring I
 plan to do to build a [[https://github.com/gagbo/dactyl-keyboard][Dactyl Manuform]]
+
+* Size
+
+I built a stl from the Clojure enabled OpenSCAD from
+[[https://github.com/gagbo/dactyl-keyboard][Matt Adereth]], with `6` rows and
+`6 columns`. I want a pretty big ortholinear ergonomic keyboard I can leave
+at home with all functions keys and modifiers I may wish (even I don't use
+them eventually).
+
+Note that it doesn't change much wiring- and fireware-wise, since additional
+columns / rows from the matrix can just be ignored / no-oped.
+
+* Row vs Column driven
+
+In the current version (1307f6e), the current flows from the column line to
+the row line because of the diod placement. So this is probably column driven
+?
