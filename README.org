@@ -1,0 +1,11 @@
+#+TITLE: Wiring plan for a Dactyl\
+
+* Disclaimer
+
+I am a noob, please don't use this if you don't want to spend a lot of time
+double checking what I do.
+
+* Schmatics
+
+I am preparing schematics to prepare a breadboard test of the hand wiring I
+plan to do to build a [[https://github.com/gagbo/dactyl-keyboard][Dactyl Manuform]]
